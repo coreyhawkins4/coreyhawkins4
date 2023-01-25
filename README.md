@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @coreyhawkins4
 - 👀 I’m interested in becoming a better data analyst
 - 🌱 I’m currently learning python & SQL
-- 💞️ I’m looking to collaborate on a unique data expploration project and build from the ground up
+- 💞️ I’m looking to collaborate on a unique data exploration project and build from the ground up
 - 📫 You can reach me via direct message
